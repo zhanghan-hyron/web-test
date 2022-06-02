@@ -33,6 +33,6 @@ function escape1($str)
 	<?php foreach ($rec as $a):?>
 	<?=escape1($a)?><br>
 	<?php endforeach;?> 
-    comment 
+    comment *2 
 </body>
 </html>
